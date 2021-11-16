@@ -1,5 +1,5 @@
-# Vladislav Reginevich :computer:
-Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, My name is Vladislav Reginevich and I really enjoy learning languages and JavaScript frameworks like Vue and React and developing interesting projects.  
+# Vladislav Reginevich | Front-end developer :computer: 
+Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, My name is Vladislav Reginevich and I really enjoy learning languages and JavaScript frameworks like Vue and React as well as developing challenging projects.  
 
 <a href="mailto:reginevich.v.l@gmail.com" rel="noopener noreferrer" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/vladislav-reginevich-10a10610a//" rel="noopener noreferrer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?&logo=linkedin&logoColor=white" /></a> 
