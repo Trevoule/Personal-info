@@ -1,4 +1,5 @@
-## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, my name's Vlad and I'm a Front end Developer :computer:
+# Vladislav Reginevich :computer:
+Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, My name is Vladislav Reginevich and I really enjoy learning languages and JavaScript frameworks like Vue and React and developing interesting projects.  
 
 <a href="mailto:reginevich.v.l@gmail.com" rel="noopener noreferrer" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/vladislav-reginevich-10a10610a//" rel="noopener noreferrer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?&logo=linkedin&logoColor=white" /></a> 
@@ -6,12 +7,7 @@
 
 
 ### 📊 GitHub Stats
-<a href="https://github.com/Trevoule">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trevoule&title_color=ffffff&show_icons=true&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Trevoule's GitHub Stats" />
-</a>
-<a href="https://github.com/Trevoule">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Trevoule&include_all_commits=true&title_color=ffffff&show_icons=true&icon_color=ffffff&line_height=27&theme=tokyonight" alt="Trevoule's GitHub Langs" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trevoule&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠️ Technologies & Tools
 
