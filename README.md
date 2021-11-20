@@ -1,5 +1,5 @@
 # Vladislav Reginevich | Front-end developer :computer: 
-Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, My name is Vladislav Reginevich and I really enjoy learning languages and JavaScript frameworks like Vue and React as well as developing challenging projects.  
+Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, My name is Vladislav Reginevich and I really enjoy learning languages and JavaScript frameworks like Vue and React as well as development of challenging projects.  
 
 :atom: **I’m interested in** the modern Front-end Development
 
