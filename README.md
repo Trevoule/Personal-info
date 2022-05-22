@@ -3,7 +3,7 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 :atom: **I’m interested in** the modern Front and Back-end Development
 
-🌱 **I’m currently learning:** NextJS
+🌱 **I’m currently learning:** Node.js, Apollo GrapgQl
 
 📬 **How to reach me:**
 
